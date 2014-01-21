@@ -36,4 +36,5 @@
 		<?php wp_head(); ?>
 	</head>
 	<body <?php body_class(); ?>>
+		Fullwidth: <?php echo get_theme_mod('fullwidth'); ?><br />
 	<!-- End header.php -->
