@@ -8,8 +8,8 @@
 		
 		$pecan_settings_array = array(
 			array(
-				'reference'	=>	'generaltheme'
-				'nicename'	=>	'General Theme Stuff'
+				'reference'	=>	'generaltheme',
+				'nicename'	=>	'General Theme Stuff',
 				'settings'	=>	array(
 					array(
 						'setting_ref'		=>	'logo',
@@ -25,8 +25,8 @@
 			),
 
 			array(
-				'reference'	=>	'contactinfo'
-				'nicename'	=>	'Contact Information'
+				'reference'	=>	'contactinfo',
+				'nicename'	=>	'Contact Information',
 				'settings'	=>	array(
 					array(
 						'setting_ref'		=>	'address',
@@ -57,8 +57,8 @@
 			),
 
 			array(
-				'reference'	=>	'social'
-				'nicename'	=>	'Social Media'
+				'reference'	=>	'social',
+				'nicename'	=>	'Social Media',
 				'settings'	=>	array(
 					array(
 						'setting_ref'		=>	'fb',
