@@ -25,7 +25,7 @@
 		
 			// Add a page number if necessary:
 			if ( $paged >= 2 || $page >= 2 ) {
-				echo ' | ' . sprintf( __( 'Page %s', 'twentyeleven' ), max( $paged, $page ) );
+				echo ' | ' . sprintf( __( 'Page %s', 'mp-pecan' ), max( $paged, $page ) );
 			}
 	
 		?></title>
