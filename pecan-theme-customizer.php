@@ -65,6 +65,18 @@
 					)
 				)
 			),
+			
+			array(
+				'reference'	=>	'layouta',
+				'nicename'	=>	'General Layout',
+				'settings'	=>	array(
+					array(
+						'setting_ref'		=>	'fullwidth',
+						'setting_nice_name'	=>	'Is layout full width?',
+						'setting_type'		=>	'checkbox'
+					)
+				)
+			),
 
 			array(
 				'reference'	=>	'contactinfo',
