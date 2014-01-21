@@ -23,39 +23,7 @@
 					)
 				)
 			),
-
-			array(
-				'reference'	=>	'contactinfo',
-				'nicename'	=>	'Contact Information',
-				'settings'	=>	array(
-					array(
-						'setting_ref'		=>	'address',
-						'setting_nice_name'	=>	'Address',
-						'setting_type'		=>	'text'
-					),
-					array(
-						'setting_ref'		=>	'city',
-						'setting_nice_name'	=>	'City',
-						'setting_type'		=>	'text'
-					),
-					array(
-						'setting_ref'		=>	'state',
-						'setting_nice_name'	=>	'State',
-						'setting_type'		=>	'text'
-					),
-					array(
-						'setting_ref'		=>	'zip',
-						'setting_nice_name'	=>	'Zip Code',
-						'setting_type'		=>	'text'
-					),
-					array(
-						'setting_ref'		=>	'phone',
-						'setting_nice_name'	=>	'Phone Number',
-						'setting_type'		=>	'text'
-					)
-				)
-			),
-
+			
 			array(
 				'reference'	=>	'social',
 				'nicename'	=>	'Social Media',
@@ -96,7 +64,41 @@
 						'setting_type'		=>	'text'
 					)
 				)
+			),
+
+			array(
+				'reference'	=>	'contactinfo',
+				'nicename'	=>	'Contact Information',
+				'settings'	=>	array(
+					array(
+						'setting_ref'		=>	'address',
+						'setting_nice_name'	=>	'Address',
+						'setting_type'		=>	'text'
+					),
+					array(
+						'setting_ref'		=>	'city',
+						'setting_nice_name'	=>	'City',
+						'setting_type'		=>	'text'
+					),
+					array(
+						'setting_ref'		=>	'state',
+						'setting_nice_name'	=>	'State',
+						'setting_type'		=>	'text'
+					),
+					array(
+						'setting_ref'		=>	'zip',
+						'setting_nice_name'	=>	'Zip Code',
+						'setting_type'		=>	'text'
+					),
+					array(
+						'setting_ref'		=>	'phone',
+						'setting_nice_name'	=>	'Phone Number',
+						'setting_type'		=>	'text'
+					)
+				)
 			)
+
+
 
 		);
 		
