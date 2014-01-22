@@ -12,3 +12,7 @@ We found a real lack of themes out in the world specifically built for MarketPre
 What we want to do is to create a base theme that you can modify to your heart's content that has the basics looking pretty good.
 
 Want to get involved?  Let us know!
+
+See a Sample
+------------
+Want to see how it looks as we develop?  Go to [our test site](http://mp.leoproductionsep.com).
