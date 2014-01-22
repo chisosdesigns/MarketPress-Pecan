@@ -36,5 +36,13 @@
 		<?php wp_head(); ?>
 	</head>
 	<body <?php body_class(); ?>>
-		Fullwidth: <?php echo get_theme_mod('fullwidth'); ?><br />
+		<?php
+			$fullwidth = get_theme_mod('fullwidth');
+			if($fullwidth) {
+				$layouttype = 'fwcontainer';
+			} else {
+				$layouttype = 'container';
+			}
+		?>
+		<div class="<?=$layouttype?>">
 	<!-- End header.php -->
