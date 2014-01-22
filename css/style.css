@@ -6283,5 +6283,5 @@ td.visible-print {
   td.hidden-print {
     display: none !important; } }
 /* line 4, ../scss/style.scss */
-.fwcontainer {
+div.fwcontainer {
   padding: 0 2em; }
