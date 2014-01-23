@@ -8,5 +8,6 @@
 	require_once('widget-areas.php');
 	require_once('pecan-widgets.php');
 	require_once('pecan-theme-customizer.php');
+	require_once('shortcodes/bs3shortcodes.php');
 	
 ?>
