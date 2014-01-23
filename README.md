@@ -3,7 +3,8 @@ MarketPress Pecan
 
 A theme for WPMU's MarketPress based on Bootstrap 3 (using the SCSS flavor)
 
-__Note__: At this point (January 21, 2014) this is not a working theme yet, however it is in active development.
+__Note__: At this point (January 23, 2014) this is not a working theme yet, however it is in active development.
+
 
 Origins
 -------
@@ -12,6 +13,7 @@ We found a real lack of themes out in the world specifically built for MarketPre
 What we want to do is to create a base theme that you can modify to your heart's content that has the basics looking pretty good.
 
 Want to get involved?  Let us know!
+
 
 See a Sample
 ------------
