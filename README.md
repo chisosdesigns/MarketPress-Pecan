@@ -10,7 +10,7 @@ Origins
 -------
 We found a real lack of themes out in the world specifically built for MarketPress, either free or paid.  We decided to create our own after being disappointed by FlexMarket and such.  Something like that works if you are looking to create a small little store but if you have more than a few items, it really disappoints.
 
-What we want to do is to create a base theme that you can modify to your heart's content that has the basics looking pretty good.
+What we want to do is to create a base theme that you can modify to your heart's content that has the basics looking pretty good.  Our goal is to create a theme that isn't just a good MarketPress theme, it's a great flexible theme that has awesome MarketPress abilities.
 
 Want to get involved?  Let us know!
 
