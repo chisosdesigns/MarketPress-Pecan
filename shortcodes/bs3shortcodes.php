@@ -17,6 +17,7 @@
 		
 		return '<div class="row' . $bs3_xc . '"' . $bs3_id . '>' . do_shortcode( $content ) . '</div>';
 	}
+	add_shortcode("bs3_row", "bs3_row");
 
 	/* bs3_col Shortcode */
 	function bs3_col( $atts, $content = NULL ) {
